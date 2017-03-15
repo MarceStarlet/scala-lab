@@ -1,10 +1,6 @@
-# sbt-layout-project
-Initial SBT project configuration for Scala 2.11.8.
+# scala-lab
+MarceStarlet Scala lab, all the practices done to learn Scala language
 
-You can verify other Scala versions in branches.
-
-## How to use it
-1. Clone the repo according your Scala version.
-2. Rename the repo directory **sbt-layout-project** to your desired repo name
-3. Run init.sh ```$ sh init.sh```
-
+### Basics
+- HelloWorld: Prints the string Hello World using the main method
+- HelloWorldApp: Prints the string Hello World App extending from scala.App trait
